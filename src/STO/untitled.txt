@@ -1,0 +1,4 @@
+mutable struct AGState <: State
+    x::Vector
+    
+end
